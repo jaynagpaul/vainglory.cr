@@ -1,0 +1,9 @@
+name: vainglory
+version: 0.1.0
+
+authors:
+  - Jay Nagpaul <hi@jaynagpaul.com>
+
+crystal: 0.24.1
+
+license: MIT
