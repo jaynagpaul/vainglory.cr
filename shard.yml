@@ -4,6 +4,11 @@ version: 0.1.0
 authors:
   - Jay Nagpaul <hi@jaynagpaul.com>
 
+dependencies:
+  cossack:
+    github: crystal-community/cossack
+    version: ~> 0.1
+
 crystal: 0.24.1
 
 license: MIT
